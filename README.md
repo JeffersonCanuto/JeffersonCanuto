@@ -1,11 +1,11 @@
-### Hey there! Welcome to my world 💻🎮🤓
+### Hey there! Welcome to my world 🤓💻🎮
 
-- 🔭 I am currently working as a Software Engineer with both Web and Android at @Sidia
-- 🌱 I am currently focused on enhacing my skills in Front-end development by learning new stacks
+- 🔭 I am a Software Engineer with 3+ years of experience working mostly with Web and a bit with Android (Java).
+- 🌱 I am currently focused on enhancing my skills as a Fullstack Developer by learning new technologies
 - 💬 Ask me about anything you want even though I am no psychic xD
 - 📫 Feel free to contact me via e-mail: jeffersondscanuto@gmail.com
 -  &nbsp;![linkedin (2)](https://user-images.githubusercontent.com/38267343/189576473-ce6e1250-3901-4dad-9697-8cc01712ddb1.png) My LinkedIn profile is: <a target="_blank" href="https://www.linkedin.com/in/jefferson-canuto-aa3b46163/">linkedin.com/in/jefferson-canuto-aa3b46163/</a>
-- ⚡ Totally into watching science fiction series, playing games, tripping and listening to good music
+- ⚡ Totally into hanging out with friends, watching series, playing games and listening to good music
 
 <br />
 
