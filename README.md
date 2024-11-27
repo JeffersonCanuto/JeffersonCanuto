@@ -1,6 +1,6 @@
 ### Hey there! Welcome to my world 🤓💻🎮
 
-- 🔭 I am a Software Engineer with 3+ years of experience working mostly with Web and a bit with Android (Java)
+- 🔭 I am a Software Engineer with 5+ years of experience working mostly with Web Development
 - 🌱 I am currently focused on enhancing my skills as a Fullstack Developer (Web) by learning new technologies
 - 💬 Ask me about anything you want even though I am no psychic xD
 - 📫 Feel free to contact me via e-mail: jeffersondscanuto@gmail.com
@@ -18,9 +18,9 @@
 <br />
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="React-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML5-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
