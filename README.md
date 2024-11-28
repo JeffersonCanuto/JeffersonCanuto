@@ -1,6 +1,6 @@
 ### Hey there! Welcome to my world 🤓💻🎮
 
-- 🔭 I am a Software Engineer with 5+ years of experience working with Web Development (Fullstack) 
+- 🔭 I am a Software Engineer with 5+ years of experience working mostly with Fullstack Development
 - 🌱 I am currently focused on enhancing my skills as a Software Engineer by learning new technologies
 - 💬 Ask me about anything you want even though I am no psychic xD
 - 📫 Feel free to contact me via e-mail: jeffersondscanuto@gmail.com
@@ -36,10 +36,10 @@
 
 <div>
   <!-- Social Medias -->
-  <a href="https://www.linkedin.com/in/jefferson-canuto-aa3b46163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/itsjefso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="mailto:jeffersondscanuto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefferson-canuto-aa3b46163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/itsjefso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="mailto:jeffersondscanuto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   <!-- Snake Animation -->
   <picture>
