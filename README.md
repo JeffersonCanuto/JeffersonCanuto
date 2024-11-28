@@ -28,7 +28,7 @@
   <img align="center" alt="Node-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Express-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />   
   <img align="center" alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img align="center" alt="Django-Icon" height="30" width="35" src="https://icon-library.com/images/django-icon/django-icon-21.jpg" />
   <img align="right" alt="My-Picture" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/boy-01_4x.png">
 </div>
 
