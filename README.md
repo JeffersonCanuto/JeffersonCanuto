@@ -1,6 +1,6 @@
 ### Hey there! Welcome to my world 🤓💻🎮
 
-- 🔭 I am a Software Engineer with 5+ years of experience working mostly with Fullstack Development
+- 🔭 I am a Software Engineer with 5+ years of experience working mostly with Frontend Development
 - 🌱 I am currently focused on enhancing my skills as a Software Engineer by learning new technologies
 - 💬 Ask me about anything you want, even though I am no psychic :D
 - 📫 Feel free to contact me via e-mail: jeffersondscanuto@gmail.com
