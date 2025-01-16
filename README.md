@@ -1,4 +1,4 @@
-### Hey there! Welcome to my world 🤓💻🎮
+### Hey there! Welcome to my world 👨🏻‍💻🎮
 
 - 🔭 I am a Software Engineer with 5+ years of experience working mostly as a Front-end Developer
 - 🚀 I am currently focused on enhancing my skills as a Software Engineer by learning new technologies
