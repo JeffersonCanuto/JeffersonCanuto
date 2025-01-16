@@ -1,10 +1,11 @@
 ### Hey there! Welcome to my world 🤓💻🎮
 
-- 🔭 I am a Software Engineer with 5+ years of experience working mostly with Frontend Development
-- 🌱 I am currently focused on enhancing my skills as a Software Engineer by learning new technologies
+- 🔭 I am a Software Engineer with 5+ years of experience working mostly as a Frontend Developer
+- 🚀 I am currently focused on enhancing my skills as a Software Engineer by learning new technologies
 - 💬 Ask me about anything you want, even though I am no psychic :D
 - 📫 Feel free to contact me via e-mail: jeffersondscanuto@gmail.com
 -  &nbsp;![linkedin (2)](https://user-images.githubusercontent.com/38267343/189576473-ce6e1250-3901-4dad-9697-8cc01712ddb1.png) My LinkedIn profile is: <a target="_blank" href="https://www.linkedin.com/in/jefferson-canuto-aa3b46163/">linkedin.com/in/jefferson-canuto-aa3b46163/</a>
+- 🧰 My Portfolio website is: <a target="_blank" href="https://jefferson-portfolio-sandy.vercel.app/">https://jefferson-portfolio-sandy.vercel.app/</a>
 - ⚡ Totally into hanging out with friends, watching series, playing games and listening to good music
 
 <br />
