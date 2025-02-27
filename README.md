@@ -14,7 +14,7 @@
 <div align="center" style="display: inline">
   <a href="https://github.com/JeffersonCanuto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeffersonCanuto&show_icons=true&theme=blueberry"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonCanuto&layout=compact&langs_count=10&theme=blueberry"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeffersonCanuto&theme=blueberry"/>
 </div>
 
 <br />
