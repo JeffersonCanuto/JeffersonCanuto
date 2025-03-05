@@ -5,7 +5,7 @@
 - 💬 Ask me about anything you want, even though I am no psychic :D
 - 📫 Feel free to contact me via e-mail: jeffersondscanuto@gmail.com
 - &nbsp;![linkedin (2)](https://user-images.githubusercontent.com/38267343/189576473-ce6e1250-3901-4dad-9697-8cc01712ddb1.png) My LinkedIn profile is: <a href="https://www.linkedin.com/in/jefferson-canuto-aa3b46163/" target="_blank">linkedin.com/in/jefferson-canuto-aa3b46163/</a>
-- 🧰 My web portfolio is: <a href="https://jefferson-portfolio-sandy.vercel.app/" target="_blank">https://jefferson-portfolio-sandy.vercel.app/</a>
+- 🧰 My web portfolio is: <a href="https://jefferson-portfolio-taupe.vercel.app/" target="_blank">https://jefferson-portfolio-taupe.vercel.app/</a>
 - ⚡ Totally into hanging out with friends, watching series, playing games and listening to good music
 
 <br />
@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/jefferson-canuto-aa3b46163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/itsjefso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://wa.me/5592982818369" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://jefferson-portfolio-sandy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://jefferson-portfolio-taupe.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="mailto:jeffersondscanuto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   <!-- Snake Animation -->
