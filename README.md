@@ -2,8 +2,7 @@
 
 - 🔭 I am a Software Engineer with 5+ years of experience working as a Frontend/Fullstack Engineer
 - 🚀 I am currently focused on enhancing my skills by learning new technologies and processes
-- 💬 Ask me about anything you want, even though I am no psychic :D
-- 📫 Feel free to contact me via e-mail: jeffersondscanuto@gmail.com
+- 📫 Feel free to contact me via email at jeffersondscanuto@gmail.com or through my social media
 - &nbsp;![linkedin (2)](https://user-images.githubusercontent.com/38267343/189576473-ce6e1250-3901-4dad-9697-8cc01712ddb1.png) My LinkedIn profile is: <a href="https://www.linkedin.com/in/jefferson-canuto-aa3b46163/" target="_blank">linkedin.com/in/jefferson-canuto-aa3b46163/</a>
 - 🧰 My web portfolio is: <a href="https://jefferson-portfolio-taupe.vercel.app/" target="_blank">https://jefferson-portfolio-taupe.vercel.app/</a>
 - ⚡ Totally into hanging out with friends, watching series, playing games and listening to good music
