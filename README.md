@@ -1,6 +1,6 @@
 ### Hey there! Welcome to my world 👨🏻‍💻
 
-- 👨🏻‍💻 I am a Software Engineer with 5+ years of experience working as a Frontend/Fullstack Engineer
+- 👨🏻‍💻 I am a Software Engineer with 5+ years of experience working as a Fullstack/Frontend Engineer
 - 🚀 I am currently focused on enhancing my skills by learning new technologies and also processes
 - 📫 Feel free to contact me through my social media or via email at jeffersondscanuto@gmail.com
 - &nbsp;![linkedin (2)](https://user-images.githubusercontent.com/38267343/189576473-ce6e1250-3901-4dad-9697-8cc01712ddb1.png) My LinkedIn profile is: <a href="https://www.linkedin.com/in/jefferson-canuto-aa3b46163/" target="_blank">linkedin.com/in/jefferson-canuto-aa3b46163/</a>
